@@ -1037,3 +1037,131 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.12-09.15.51:573][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.08.12-09.15.51:574][409]LogContentBrowser: End creating deferred item NewWorld
 [2022.08.12-09.16.29:611][959]LogDerivedDataCache: C:/Users/artin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.154 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.12-09.26.21:032][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.12-09.26.22:826][628]LogSlate: Window 'Save Content' being destroyed
+[2022.08.12-09.26.22:888][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.12-09.26.22:894][628]LogSavePackage: Moving output files for package: /Game/GameContent/Artin/ArtinCreative
+[2022.08.12-09.26.22:894][628]LogSavePackage: Moving 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Saved/ArtinCreativeC68284B14B8025915FDA74B592FA4A57.tmp' to 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Artin/ArtinCreative.umap'
+[2022.08.12-09.26.22:899][628]LogFileHelpers: Saving map 'ArtinCreative' took 0.017
+[2022.08.12-09.26.22:906][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.08.12-09.26.22:908][628]LogSavePackage: Moving output files for package: /Game/GameContent/Denver/DenverCreative
+[2022.08.12-09.26.22:908][628]LogSavePackage: Moving 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Saved/DenverCreativeFCB31CD344C993082B73EB96A2895376.tmp' to 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Denver/DenverCreative.umap'
+[2022.08.12-09.26.22:912][628]LogFileHelpers: Saving map 'DenverCreative' took 0.013
+[2022.08.12-09.26.22:920][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.08.12-09.26.22:922][628]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/FrazierCreative
+[2022.08.12-09.26.22:922][628]LogSavePackage: Moving 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Saved/FrazierCreative4FF7B35947518091B7650DA717BE82CA.tmp' to 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Frazier/FrazierCreative.umap'
+[2022.08.12-09.26.22:927][628]LogFileHelpers: Saving map 'FrazierCreative' took 0.014
+[2022.08.12-09.26.22:933][628]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameContent/Artin/ArtinCreative.ArtinCreative
+[2022.08.12-09.26.22:933][628]Cmd: MAP LOAD FILE="C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Artin/ArtinCreative.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.12-09.26.22:933][628]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.22:933][628]LoadErrors: New page: Loading map: ArtinCreative.umap
+[2022.08.12-09.26.22:977][628]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.22:977][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.22:980][628]MapCheck: New page: Map Check
+[2022.08.12-09.26.22:980][628]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.22:986][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.12-09.26.22:989][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.08.12-09.26.22:995][628]LogWorld: UWorld::CleanupWorld for FrazierCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.22:995][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.22:995][628]LogWorld: UWorld::CleanupWorld for ArtinCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.22:995][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.22:995][628]LogWorld: UWorld::CleanupWorld for DenverCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.22:995][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.23:002][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.12-09.26.23:008][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.12-09.26.23:009][628]LogAudio: Display: Audio Device (ID: 1) registered with world 'ArtinCreative'.
+[2022.08.12-09.26.23:009][628]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.12-09.26.23:009][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.12-09.26.23:010][628]LogAIModule: Creating AISystem for world ArtinCreative
+[2022.08.12-09.26.23:021][628]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.12-09.26.23:027][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.08.12-09.26.23:034][628]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.12-09.26.23:034][628]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.08.12-09.26.23:034][628]LogFileHelpers: Loading map 'ArtinCreative' took 0.101
+[2022.08.12-09.26.23:038][628]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.12-09.26.23:038][628]LogContentValidation: Display: Validating World /Game/GameContent/Artin/ArtinCreative.ArtinCreative
+[2022.08.12-09.26.23:038][628]LogContentValidation: Display: Validating World /Game/GameContent/Denver/DenverCreative.DenverCreative
+[2022.08.12-09.26.23:040][628]LogContentValidation: Display: Validating World /Game/GameContent/Frazier/FrazierCreative.FrazierCreative
+[2022.08.12-09.26.35:589][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.08.12-09.26.35:591][ 86]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameContent/Denver/DenverCreative.DenverCreative
+[2022.08.12-09.26.35:591][ 86]Cmd: MAP LOAD FILE="C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Denver/DenverCreative.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.12-09.26.35:591][ 86]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.35:591][ 86]LoadErrors: New page: Loading map: DenverCreative.umap
+[2022.08.12-09.26.35:625][ 86]LogWorld: UWorld::CleanupWorld for ArtinCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.35:625][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.35:625][ 86]MapCheck: New page: Map Check
+[2022.08.12-09.26.35:625][ 86]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.35:632][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.12-09.26.35:633][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.12-09.26.35:635][ 86]LogWorld: UWorld::CleanupWorld for FrazierCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.35:635][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.35:635][ 86]LogWorld: UWorld::CleanupWorld for DenverCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.35:635][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.35:642][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.12-09.26.35:650][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.08.12-09.26.35:651][ 86]LogAudio: Display: Audio Device (ID: 1) registered with world 'DenverCreative'.
+[2022.08.12-09.26.35:651][ 86]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.12-09.26.35:652][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.12-09.26.35:652][ 86]LogAIModule: Creating AISystem for world DenverCreative
+[2022.08.12-09.26.35:663][ 86]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.12-09.26.35:672][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.08.12-09.26.35:680][ 86]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.12-09.26.35:680][ 86]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2022.08.12-09.26.35:680][ 86]LogFileHelpers: Loading map 'DenverCreative' took 0.089
+[2022.08.12-09.26.37:450][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.08.12-09.26.37:501][292]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameContent/Artin/ArtinCreative.ArtinCreative
+[2022.08.12-09.26.37:502][292]Cmd: MAP LOAD FILE="C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Artin/ArtinCreative.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.12-09.26.37:502][292]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.37:502][292]LoadErrors: New page: Loading map: ArtinCreative.umap
+[2022.08.12-09.26.37:502][292]LogWorld: UWorld::CleanupWorld for DenverCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.37:502][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.37:503][292]MapCheck: New page: Map Check
+[2022.08.12-09.26.37:503][292]LightingResults: New page: Lighting Build
+[2022.08.12-09.26.37:508][292]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.12-09.26.37:509][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.12-09.26.37:510][292]LogWorld: UWorld::CleanupWorld for ArtinCreative, bSessionEnded=true, bCleanupResources=true
+[2022.08.12-09.26.37:510][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.12-09.26.37:517][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.08.12-09.26.37:524][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.12-09.26.37:525][292]LogAudio: Display: Audio Device (ID: 1) registered with world 'ArtinCreative'.
+[2022.08.12-09.26.37:526][292]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.12-09.26.37:526][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.12-09.26.37:526][292]LogAIModule: Creating AISystem for world ArtinCreative
+[2022.08.12-09.26.37:536][292]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.12-09.26.37:543][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.12-09.26.37:550][292]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.12-09.26.37:550][292]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2022.08.12-09.26.37:550][292]LogFileHelpers: Loading map 'ArtinCreative' took 0.048
+[2022.08.12-09.26.40:846][673]LogEditorViewport: Clicking Background
+[2022.08.12-09.26.43:904][ 30]LogEditorViewport: Clicking Background
+[2022.08.12-09.26.47:051][396]LogEditorViewport: Clicking Background
+[2022.08.12-09.26.48:482][567]Cmd: POLY SELECT MEMORY UNION
+[2022.08.12-09.26.58:170][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.08.12-09.26.58:170][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.08.12-09.26.58:174][698]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/GameContent/Artin/ArtinCreative.ArtinCreative:PersistentLevel.SkyLight_0
+[2022.08.12-09.26.58:175][698]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/GameContent/Artin/ArtinCreative.ArtinCreative:PersistentLevel.SkyLight_0
+[2022.08.12-09.27.00:895][  7]Cmd: TRANSACTION UNDO
+[2022.08.12-09.27.00:896][  7]LogEditorTransaction: Undo Create Actor
+[2022.08.12-09.27.24:304][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:304][691]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.08.12-09.27.24:304][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:304][691]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: URL: C:\Users\artin\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: URL: C:\Users\artin\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.08.12-09.27.24:305][691]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.08.12-09.28.07:009][ 33]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.08.12-09.28.28:950][939]LogSlate: Window 'Source Control Login' being destroyed
+[2022.08.12-09.28.34:168][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.08.12-09.28.34:325][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.08.12-09.28.34:328][495]LogSavePackage: Moving output files for package: /Game/GameContent/Artin/ArtinCreative
+[2022.08.12-09.28.34:329][495]LogSavePackage: Moving 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Saved/ArtinCreative8E971E13492CC2DAAB240C929C5681F0.tmp' to 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs/Content/GameContent/Artin/ArtinCreative.umap'
+[2022.08.12-09.28.34:338][495]LogFileHelpers: Saving map 'ArtinCreative' took 0.019
+[2022.08.12-09.28.34:348][495]AssetCheck: New page: Asset Save: ArtinCreative
+[2022.08.12-09.28.34:348][495]LogContentValidation: Display: Validating World /Game/GameContent/Artin/ArtinCreative.ArtinCreative
