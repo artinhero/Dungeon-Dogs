@@ -755,3 +755,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.12-10.08.36:076][894]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
 [2022.08.12-10.08.36:193][898]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/artin/Documents/Unreal Projects/Dungeon_Dogs'
 [2022.08.12-10.08.43:293][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.12-10.08.49:926][839]LogDerivedDataCache: C:/Users/artin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.163 and deleted 0 file(s) with total size 0 MiB.
