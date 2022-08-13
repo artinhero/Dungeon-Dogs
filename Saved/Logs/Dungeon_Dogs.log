@@ -1584,3 +1584,32 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.13-23.22.49:144][109]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2022.08.13-23.22.49:144][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.08.13-23.23.01:619][160]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.13-23.23.44:196][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.08.13-23.23.44:591][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.08.13-23.23.44:602][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/Levels/FrazierCreative
+[2022.08.13-23.23.44:603][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/FrazierCreativeA7AC5A0540B6008DD54CB8B061B3FEA0.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/Levels/FrazierCreative.umap'
+[2022.08.13-23.23.44:618][250]LogFileHelpers: Saving map 'FrazierCreative' took 0.073
+[2022.08.13-23.23.44:637][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BP_Cat
+[2022.08.13-23.23.44:638][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/BP_Cat059843BB478DDE9863B66BB6E1618D8F.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BP_Cat.uasset'
+[2022.08.13-23.23.44:643][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BT_Cat
+[2022.08.13-23.23.44:644][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/BT_Cat356F2A13410B6CA418E6A498236AAF13.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BT_Cat.uasset'
+[2022.08.13-23.23.44:647][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BB_Cat
+[2022.08.13-23.23.44:648][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/BB_Cat13F1DE5A4A4AFED325754CA51AA3FF62.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BB_Cat.uasset'
+[2022.08.13-23.23.44:651][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Frazier/Settings/GM_Creative" FILE="../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/Settings/GM_Creative.uasset" SILENT=true
+[2022.08.13-23.23.44:656][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/Settings/GM_Creative
+[2022.08.13-23.23.44:656][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/GM_CreativeB00253F64FC68BC8E04EE3A6DE334642.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/Settings/GM_Creative.uasset'
+[2022.08.13-23.23.44:664][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTC_Cat
+[2022.08.13-23.23.44:664][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/BTC_CatB9532F084B7F2D1C93CAA5A2F5E5E895.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTC_Cat.uasset'
+[2022.08.13-23.23.45:061][250]LogSavePackage: Moving output files for package: /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTTask_GetRandomLocation
+[2022.08.13-23.23.45:061][250]LogSavePackage: Moving '../../../../../UnrealProjects/Dungeon-Dogs/Saved/BTTask_GetRandomLocationB7FCF92346250D306AB3F888E186DD99.tmp' to '../../../../../UnrealProjects/Dungeon-Dogs/Content/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTTask_GetRandomLocation.uasset'
+[2022.08.13-23.23.45:500][250]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Frazier/Settings/GM_Creative.GM_Creative
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating BlackboardData /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BB_Cat.BB_Cat
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating BehaviorTree /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BT_Cat.BT_Cat
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BP_Cat.BP_Cat
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating World /Game/GameContent/Frazier/Levels/FrazierCreative.FrazierCreative
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTTask_GetRandomLocation.BTTask_GetRandomLocation
+[2022.08.13-23.23.45:500][250]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTC_Cat.BTC_Cat
+[2022.08.13-23.23.45:507][250]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/GameContent/Frazier/Settings/GM_Creative.
+[2022.08.13-23.23.45:508][250]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTC_Cat.
+[2022.08.13-23.23.45:508][250]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/GameContent/Frazier/EnemyCharacters/Cat/Blueprints/BTTask_GetRandomLocation.
